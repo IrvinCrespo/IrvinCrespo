@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrvinCrespo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+I'm a sotware engineer that loves to create and innovate.
+- 🔭 Recently working on a personal part-time project for Live video streaming.
+
 
 
 <!--
