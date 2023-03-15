@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a sotware engineer that loves to create and innovate.
-- 🔭 Recently working on a personal part-time project for Live video streaming.
+- 🔭 Recently working on a personal part-time project for Live video streaming service.
 
 
 
